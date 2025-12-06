@@ -7,7 +7,7 @@ A web application to streamline procurement workflows using AI to create, manage
 - **Frontend**: React.js, TailwindCSS
 - **Backend**: Node.js, Express.js
 - **Database**: PostgreSQL with Sequelize ORM
-- **AI**: OpenAI GPT-4
+- **AI**: Google Gemini
 - **Email**: Nodemailer (SMTP)
 
 ## Prerequisites
